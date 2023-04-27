@@ -17,3 +17,8 @@ body {
    background:#fff; 
    padding:0 10px; 
 }
+
+#icons {
+  width: 40%;
+  margin: 30px auto;
+}
