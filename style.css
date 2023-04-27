@@ -1,0 +1,19 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+#title , #timer {
+  text-align: center;
+}
+
+#timer {
+  width: 60%; 
+  border-bottom: 1px solid #000; 
+  line-height: 0.1em;
+  margin: 0 auto; 
+} 
+
+#timer , span { 
+   background:#fff; 
+   padding:0 10px; 
+}
